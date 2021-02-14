@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning Java、Redis、微信小程序、JavaScript ...
 - 📫 How to reach me 327474264@qq.com
 
+
+status card: https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
+
 <!---
 Rookie1996/Rookie1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
